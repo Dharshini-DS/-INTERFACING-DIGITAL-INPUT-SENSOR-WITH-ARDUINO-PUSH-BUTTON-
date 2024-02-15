@@ -97,3 +97,6 @@ void loop()
 
 ![ex1-1](https://github.com/Dharshini-DS/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/93427345/997c2770-4c9b-4a57-8d10-4f3952bb5c38)
 
+## Result :
+
+Thus the interfaceing digital input sensor with ardunio push button is completed using thinkercad software sucessfully
